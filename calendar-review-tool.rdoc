@@ -1,0 +1,5 @@
+= calendar-review-tool
+
+Generate this with
+    calendar-review-tool rdoc
+After you have described your command line interface
