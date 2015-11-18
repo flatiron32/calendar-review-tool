@@ -1,0 +1,372 @@
+{
+  "@odata.context": "https://outlook.office365.com/api/v1.0/$metadata#Me/CalendarView",
+  "value": [
+    {
+      "@odata.id": "https://outlook.office365.com/api/v1.0/Users('JACOB.TOMAW@orbitz.com')/Events('AAMkAGZlMjdjNjZmLWMxODMtNGU2OC1hNDBhLTI3NDYwNWEyMDk2NgBGAAAAAABGuE7zDIjQQJwwdpm4uRFSBwCnlEFJB_ekSaCfGVaGiCpBAAAA_g6SAABAGV0LMNDgTp5usOVZ_ERFAADGHUguAAA=')",
+      "@odata.etag": "W/\"QBldCzDQ4E6ebrDlWfhERQAAybWQ7g==\"",
+      "Id": "AAMkAGZlMjdjNjZmLWMxODMtNGU2OC1hNDBhLTI3NDYwNWEyMDk2NgBGAAAAAABGuE7zDIjQQJwwdpm4uRFSBwCnlEFJB_ekSaCfGVaGiCpBAAAA_g6SAABAGV0LMNDgTp5usOVZ_ERFAADGHUguAAA=",
+      "ChangeKey": "QBldCzDQ4E6ebrDlWfhERQAAybWQ7g==",
+      "Categories": [],
+      "DateTimeCreated": "2015-07-06T14:22:19.9556663Z",
+      "DateTimeLastModified": "2015-07-08T15:32:04.9949745Z",
+      "Subject": "Event 1",
+      "BodyPreview": "",
+      "Body": {
+        "ContentType": "Text",
+        "Content": ""
+      },
+      "Importance": "Normal",
+      "HasAttachments": false,
+      "Start": "2015-07-01T15:00:00Z",
+      "StartTimeZone": "Central Standard Time",
+      "End": "2015-07-08T16:00:00Z",
+      "EndTimeZone": "Central Standard Time",
+      "Reminder": null,
+      "Location": {
+        "DisplayName": "",
+        "Address": {
+          "Street": "",
+          "City": "",
+          "State": "",
+          "CountryOrRegion": "",
+          "PostalCode": ""
+        },
+        "Coordinates": {
+          "Accuracy": "NaN",
+          "Altitude": "NaN",
+          "AltitudeAccuracy": "NaN",
+          "Latitude": "NaN",
+          "Longitude": "NaN"
+        }
+      },
+      "ResponseStatus": {
+        "Response": "Organizer",
+        "Time": "0001-01-01T00:00:00Z"
+      },
+      "ShowAs": "Busy",
+      "IsAllDay": false,
+      "IsCancelled": false,
+      "IsOrganizer": true,
+      "ResponseRequested": true,
+      "Type": "SingleInstance",
+      "SeriesMasterId": null,
+      "Attendees": [],
+      "Recurrence": null,
+      "Organizer": {
+        "EmailAddress": {
+          "Address": "JACOB.TOMAW@orbitz.com",
+          "Name": "Tomaw, Jacob"
+        }
+      },
+      "iCalUId": "040000008200E00074C5B7101A82E0080000000000000000000000000000000000000000310000007643616C2D5569640100000043394631353531332D393135412D343031312D423836412D36394344313041393231304200",
+      "WebLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGZlMjdjNjZmLWMxODMtNGU2OC1hNDBhLTI3NDYwNWEyMDk2NgBGAAAAAABGuE7zDIjQQJwwdpm4uRFSBwCnlEFJB%2BekSaCfGVaGiCpBAAAA%2Bg6SAABAGV0LMNDgTp5usOVZ%2BERFAADGHUguAAA%3D&exvsurl=1&viewmodel=ICalendarItemDetailsViewModelFactory"
+    },
+    {
+      "@odata.id": "https://outlook.office365.com/api/v1.0/Users('JACOB.TOMAW@orbitz.com')/Events('AAMkAGZlMjdjNjZmLWMxODMtNGU2OC1hNDBhLTI3NDYwNWEyMDk2NgBGAAAAAABGuE7zDIjQQJwwdpm4uRFSBwCnlEFJB_ekSaCfGVaGiCpBAAAA_g6SAABAGV0LMNDgTp5usOVZ_ERFAADEOG2HAAA=')",
+      "@odata.etag": "W/\"QBldCzDQ4E6ebrDlWfhERQAAxFaezQ==\"",
+      "Id": "AAMkAGZlMjdjNjZmLWMxODMtNGU2OC1hNDBhLTI3NDYwNWEyMDk2NgBGAAAAAABGuE7zDIjQQJwwdpm4uRFSBwCnlEFJB_ekSaCfGVaGiCpBAAAA_g6SAABAGV0LMNDgTp5usOVZ_ERFAADEOG2HAAA=",
+      "ChangeKey": "QBldCzDQ4E6ebrDlWfhERQAAxFaezQ==",
+      "Categories": [],
+      "DateTimeCreated": "2015-06-29T05:45:26.5336581Z",
+      "DateTimeLastModified": "2015-06-29T11:43:30.2627976Z",
+      "Subject": "Event 2",
+      "BodyPreview": "Hi Brent,\\\r\\\n\\\r\\\nWe are wrapping up the audit and wanted to discuss the potential findings to get feedback from you as well as the other teams.\\\r\\\n\\\r\\\nThanks,\\\r\\\n\\\r\\\nDuy",
+      "Body": {
+        "ContentType": "Text",
+        "Content": "Hi Brent,\\\r\\\n\\\r\\\nWe are wrapping up the audit and wanted to discuss the potential findings to get feedback from you as well as the other teams.\\\r\\\n\\\r\\\nThanks,\\\r\\\n\\\r\\\nDuy"
+      },
+      "Importance": "Normal",
+      "HasAttachments": false,
+      "Start": "2015-07-02T20:00:00Z",
+      "StartTimeZone": "tzone://Microsoft/Custom",
+      "End": "2015-07-08T20:30:00Z",
+      "EndTimeZone": "tzone://Microsoft/Custom",
+      "Reminder": 15,
+      "Location": {
+        "DisplayName": "Chicago-9-Montmartre",
+        "Address": {
+          "Street": "",
+          "City": "",
+          "State": "",
+          "CountryOrRegion": "",
+          "PostalCode": ""
+        },
+        "Coordinates": {
+          "Accuracy": "NaN",
+          "Altitude": "NaN",
+          "AltitudeAccuracy": "NaN",
+          "Latitude": "NaN",
+          "Longitude": "NaN"
+        }
+      },
+      "ResponseStatus": {
+        "Response": "Accepted",
+        "Time": "2015-06-29T11:36:55.4111976Z"
+      },
+      "ShowAs": "Busy",
+      "IsAllDay": false,
+      "IsCancelled": false,
+      "IsOrganizer": false,
+      "ResponseRequested": true,
+      "Type": "SingleInstance",
+      "SeriesMasterId": null,
+      "Attendees": [
+        {
+          "EmailAddress": {
+            "Address": "Duy.Tran@orbitz.com",
+            "Name": "Tran, Duy"
+          },
+          "Status": null,
+          "Type": "Required"
+        },
+        {
+          "EmailAddress": {
+            "Address": "BRENT.WALKER@orbitz.com",
+            "Name": "Walker, Brent"
+          },
+          "Status": null,
+          "Type": "Required"
+        },
+        {
+          "EmailAddress": {
+            "Address": "Jonathan.Auchter@orbitz.com",
+            "Name": "Auchter, Jonathan"
+          },
+          "Status": null,
+          "Type": "Required"
+        },
+        {
+          "EmailAddress": {
+            "Address": "JACOB.TOMAW@orbitz.com",
+            "Name": "Tomaw, Jacob"
+          },
+          "Status": null,
+          "Type": "Required"
+        }
+      ],
+      "Recurrence": null,
+      "Organizer": {
+        "EmailAddress": {
+          "Address": "Duy.Tran@orbitz.com",
+          "Name": "Tran, Duy"
+        }
+      },
+      "iCalUId": "040000008200E00074C5B7101A82E0080000000050F2E3E104B2D0010000000000000000100000004183454F16912F4B940608541A03FB62",
+      "WebLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGZlMjdjNjZmLWMxODMtNGU2OC1hNDBhLTI3NDYwNWEyMDk2NgBGAAAAAABGuE7zDIjQQJwwdpm4uRFSBwCnlEFJB%2BekSaCfGVaGiCpBAAAA%2Bg6SAABAGV0LMNDgTp5usOVZ%2BERFAADEOG2HAAA%3D&exvsurl=1&viewmodel=ICalendarItemDetailsViewModelFactory"
+    },
+    {
+      "@odata.id": "https://outlook.office365.com/api/v1.0/Users('JACOB.TOMAW@orbitz.com')/Events('AAMkAGZlMjdjNjZmLWMxODMtNGU2OC1hNDBhLTI3NDYwNWEyMDk2NgBGAAAAAABGuE7zDIjQQJwwdpm4uRFSBwCnlEFJB_ekSaCfGVaGiCpBAAAA_g6SAABAGV0LMNDgTp5usOVZ_ERFAADGHUguAAA=')",
+      "@odata.etag": "W/\"QBldCzDQ4E6ebrDlWfhERQAAybWQ7g==\"",
+      "Id": "AAMkAGZlMjdjNjZmLWMxODMtNGU2OC1hNDBhLTI3NDYwNWEyMDk2NgBGAAAAAABGuE7zDIjQQJwwdpm4uRFSBwCnlEFJB_ekSaCfGVaGiCpBAAAA_g6SAABAGV0LMNDgTp5usOVZ_ERFAADGHUguAAA=",
+      "ChangeKey": "QBldCzDQ4E6ebrDlWfhERQAAybWQ7g==",
+      "Categories": [],
+      "DateTimeCreated": "2015-07-06T14:22:19.9556663Z",
+      "DateTimeLastModified": "2015-07-08T15:32:04.9949745Z",
+      "Subject": "Event 3",
+      "BodyPreview": "",
+      "Body": {
+        "ContentType": "Text",
+        "Content": ""
+      },
+      "Importance": "Normal",
+      "HasAttachments": false,
+      "Start": "2015-07-03T15:00:00Z",
+      "StartTimeZone": "Central Standard Time",
+      "End": "2015-07-08T16:00:00Z",
+      "EndTimeZone": "Central Standard Time",
+      "Reminder": null,
+      "Location": {
+        "DisplayName": "",
+        "Address": {
+          "Street": "",
+          "City": "",
+          "State": "",
+          "CountryOrRegion": "",
+          "PostalCode": ""
+        },
+        "Coordinates": {
+          "Accuracy": "NaN",
+          "Altitude": "NaN",
+          "AltitudeAccuracy": "NaN",
+          "Latitude": "NaN",
+          "Longitude": "NaN"
+        }
+      },
+      "ResponseStatus": {
+        "Response": "Organizer",
+        "Time": "0001-01-01T00:00:00Z"
+      },
+      "ShowAs": "Busy",
+      "IsAllDay": false,
+      "IsCancelled": false,
+      "IsOrganizer": true,
+      "ResponseRequested": true,
+      "Type": "SingleInstance",
+      "SeriesMasterId": null,
+      "Attendees": [],
+      "Recurrence": null,
+      "Organizer": {
+        "EmailAddress": {
+          "Address": "JACOB.TOMAW@orbitz.com",
+          "Name": "Tomaw, Jacob"
+        }
+      },
+      "iCalUId": "040000008200E00074C5B7101A82E0080000000000000000000000000000000000000000310000007643616C2D5569640100000043394631353531332D393135412D343031312D423836412D36394344313041393231304200",
+      "WebLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGZlMjdjNjZmLWMxODMtNGU2OC1hNDBhLTI3NDYwNWEyMDk2NgBGAAAAAABGuE7zDIjQQJwwdpm4uRFSBwCnlEFJB%2BekSaCfGVaGiCpBAAAA%2Bg6SAABAGV0LMNDgTp5usOVZ%2BERFAADGHUguAAA%3D&exvsurl=1&viewmodel=ICalendarItemDetailsViewModelFactory"
+    },
+    {
+      "@odata.id": "https://outlook.office365.com/api/v1.0/Users('JACOB.TOMAW@orbitz.com')/Events('AAMkAGZlMjdjNjZmLWMxODMtNGU2OC1hNDBhLTI3NDYwNWEyMDk2NgBGAAAAAABGuE7zDIjQQJwwdpm4uRFSBwCnlEFJB_ekSaCfGVaGiCpBAAAA_g6SAABAGV0LMNDgTp5usOVZ_ERFAADEOG2HAAA=')",
+      "@odata.etag": "W/\"QBldCzDQ4E6ebrDlWfhERQAAxFaezQ==\"",
+      "Id": "AAMkAGZlMjdjNjZmLWMxODMtNGU2OC1hNDBhLTI3NDYwNWEyMDk2NgBGAAAAAABGuE7zDIjQQJwwdpm4uRFSBwCnlEFJB_ekSaCfGVaGiCpBAAAA_g6SAABAGV0LMNDgTp5usOVZ_ERFAADEOG2HAAA=",
+      "ChangeKey": "QBldCzDQ4E6ebrDlWfhERQAAxFaezQ==",
+      "Categories": [],
+      "DateTimeCreated": "2015-06-29T05:45:26.5336581Z",
+      "DateTimeLastModified": "2015-06-29T11:43:30.2627976Z",
+      "Subject": "Event 4",
+      "BodyPreview": "Hi Brent,\\\r\\\n\\\r\\\nWe are wrapping up the audit and wanted to discuss the potential findings to get feedback from you as well as the other teams.\\\r\\\n\\\r\\\nThanks,\\\r\\\n\\\r\\\nDuy",
+      "Body": {
+        "ContentType": "Text",
+        "Content": "Hi Brent,\\\r\\\n\\\r\\\nWe are wrapping up the audit and wanted to discuss the potential findings to get feedback from you as well as the other teams.\\\r\\\n\\\r\\\nThanks,\\\r\\\n\\\r\\\nDuy"
+      },
+      "Importance": "Normal",
+      "HasAttachments": false,
+      "Start": "2015-07-04T20:00:00Z",
+      "StartTimeZone": "tzone://Microsoft/Custom",
+      "End": "2015-07-08T20:30:00Z",
+      "EndTimeZone": "tzone://Microsoft/Custom",
+      "Reminder": 15,
+      "Location": {
+        "DisplayName": "Chicago-9-Montmartre",
+        "Address": {
+          "Street": "",
+          "City": "",
+          "State": "",
+          "CountryOrRegion": "",
+          "PostalCode": ""
+        },
+        "Coordinates": {
+          "Accuracy": "NaN",
+          "Altitude": "NaN",
+          "AltitudeAccuracy": "NaN",
+          "Latitude": "NaN",
+          "Longitude": "NaN"
+        }
+      },
+      "ResponseStatus": {
+        "Response": "Accepted",
+        "Time": "2015-06-29T11:36:55.4111976Z"
+      },
+      "ShowAs": "Busy",
+      "IsAllDay": false,
+      "IsCancelled": false,
+      "IsOrganizer": false,
+      "ResponseRequested": true,
+      "Type": "SingleInstance",
+      "SeriesMasterId": null,
+      "Attendees": [
+        {
+          "EmailAddress": {
+            "Address": "Duy.Tran@orbitz.com",
+            "Name": "Tran, Duy"
+          },
+          "Status": null,
+          "Type": "Required"
+        },
+        {
+          "EmailAddress": {
+            "Address": "BRENT.WALKER@orbitz.com",
+            "Name": "Walker, Brent"
+          },
+          "Status": null,
+          "Type": "Required"
+        },
+        {
+          "EmailAddress": {
+            "Address": "Jonathan.Auchter@orbitz.com",
+            "Name": "Auchter, Jonathan"
+          },
+          "Status": null,
+          "Type": "Required"
+        },
+        {
+          "EmailAddress": {
+            "Address": "JACOB.TOMAW@orbitz.com",
+            "Name": "Tomaw, Jacob"
+          },
+          "Status": null,
+          "Type": "Required"
+        }
+      ],
+      "Recurrence": null,
+      "Organizer": {
+        "EmailAddress": {
+          "Address": "Duy.Tran@orbitz.com",
+          "Name": "Tran, Duy"
+        }
+      },
+      "iCalUId": "040000008200E00074C5B7101A82E0080000000050F2E3E104B2D0010000000000000000100000004183454F16912F4B940608541A03FB62",
+      "WebLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGZlMjdjNjZmLWMxODMtNGU2OC1hNDBhLTI3NDYwNWEyMDk2NgBGAAAAAABGuE7zDIjQQJwwdpm4uRFSBwCnlEFJB%2BekSaCfGVaGiCpBAAAA%2Bg6SAABAGV0LMNDgTp5usOVZ%2BERFAADEOG2HAAA%3D&exvsurl=1&viewmodel=ICalendarItemDetailsViewModelFactory"
+    },
+    {
+      "@odata.id": "https://outlook.office365.com/api/v1.0/Users('JACOB.TOMAW@orbitz.com')/Events('AAMkAGZlMjdjNjZmLWMxODMtNGU2OC1hNDBhLTI3NDYwNWEyMDk2NgBGAAAAAABGuE7zDIjQQJwwdpm4uRFSBwCnlEFJB_ekSaCfGVaGiCpBAAAA_g6SAABAGV0LMNDgTp5usOVZ_ERFAADGHUguAAA=')",
+      "@odata.etag": "W/\"QBldCzDQ4E6ebrDlWfhERQAAybWQ7g==\"",
+      "Id": "AAMkAGZlMjdjNjZmLWMxODMtNGU2OC1hNDBhLTI3NDYwNWEyMDk2NgBGAAAAAABGuE7zDIjQQJwwdpm4uRFSBwCnlEFJB_ekSaCfGVaGiCpBAAAA_g6SAABAGV0LMNDgTp5usOVZ_ERFAADGHUguAAA=",
+      "ChangeKey": "QBldCzDQ4E6ebrDlWfhERQAAybWQ7g==",
+      "Categories": [],
+      "DateTimeCreated": "2015-07-06T14:22:19.9556663Z",
+      "DateTimeLastModified": "2015-07-08T15:32:04.9949745Z",
+      "Subject": "Event 5",
+      "BodyPreview": "",
+      "Body": {
+        "ContentType": "Text",
+        "Content": ""
+      },
+      "Importance": "Normal",
+      "HasAttachments": false,
+      "Start": "2015-07-05T15:00:00Z",
+      "StartTimeZone": "Central Standard Time",
+      "End": "2015-07-08T16:00:00Z",
+      "EndTimeZone": "Central Standard Time",
+      "Reminder": null,
+      "Location": {
+        "DisplayName": "",
+        "Address": {
+          "Street": "",
+          "City": "",
+          "State": "",
+          "CountryOrRegion": "",
+          "PostalCode": ""
+        },
+        "Coordinates": {
+          "Accuracy": "NaN",
+          "Altitude": "NaN",
+          "AltitudeAccuracy": "NaN",
+          "Latitude": "NaN",
+          "Longitude": "NaN"
+        }
+      },
+      "ResponseStatus": {
+        "Response": "Organizer",
+        "Time": "0001-01-01T00:00:00Z"
+      },
+      "ShowAs": "Busy",
+      "IsAllDay": false,
+      "IsCancelled": false,
+      "IsOrganizer": true,
+      "ResponseRequested": true,
+      "Type": "SingleInstance",
+      "SeriesMasterId": null,
+      "Attendees": [],
+      "Recurrence": null,
+      "Organizer": {
+        "EmailAddress": {
+          "Address": "JACOB.TOMAW@orbitz.com",
+          "Name": "Tomaw, Jacob"
+        }
+      },
+      "iCalUId": "040000008200E00074C5B7101A82E0080000000000000000000000000000000000000000310000007643616C2D5569640100000043394631353531332D393135412D343031312D423836412D36394344313041393231304200",
+      "WebLink": "https://outlook.office365.com/owa/?ItemID=AAMkAGZlMjdjNjZmLWMxODMtNGU2OC1hNDBhLTI3NDYwNWEyMDk2NgBGAAAAAABGuE7zDIjQQJwwdpm4uRFSBwCnlEFJB%2BekSaCfGVaGiCpBAAAA%2Bg6SAABAGV0LMNDgTp5usOVZ%2BERFAADGHUguAAA%3D&exvsurl=1&viewmodel=ICalendarItemDetailsViewModelFactory"
+    }
+  ],
+  "@odata.nextLink": "https://outlook.office365.com/api/v1.0/me/calendarview/?startDateTime=2015-07-08T01%3a00%3a00Z&endDateTime=2015-07-15T01%3a00%3a00Z&%24skip=10"
+}

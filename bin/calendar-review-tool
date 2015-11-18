@@ -35,6 +35,18 @@ pre do |global,command,options,args|
   true
 end
 
+command :list do |c|
+  c.desc 'Number of daye to get'
+  c.default_value 1
+  c.arg_name 'days'
+  c.flag [:d, :days], :type => Integer
+  c.action do |global_options,options,args|
+    cal = Calendar.new
+    events = cal.events DateTime.now, options['days']
+    events.each { |e| puts "#{e.start_date_time.new_offset DateTime.now.offset} | #{e.subject}" }
+  end
+end
+
 post do |global,command,options,args|
   # Post logic here
   # Use skips_post before a command to skip this
